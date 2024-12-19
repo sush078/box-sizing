@@ -1,0 +1,32 @@
+
+html{
+    width: 400px;
+}
+body{
+    margin: 0;
+    width: 700px;
+}
+section{
+    background-color: blue;
+    width: 50vw;
+    box-sizing: border-box;
+    padding: 10vh;
+    font-size: 10vh;
+  /* width: 600px; 
+    height: 50%;
+
+    padding: 10%; */
+    /* box-sizing: border-box; */
+}
+
+.box{
+    background-color: chartreuse;
+    width:50%;
+    padding: 24px;
+}
+
+/* @media screen and (min-width:800px){
+    section{
+        background-color:black;
+    }
+} */
